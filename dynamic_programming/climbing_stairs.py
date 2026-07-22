@@ -15,4 +15,3 @@ def countWays(n):
 if __name__ == "__main__":
     n = 4
     print(countWays(n))
-
